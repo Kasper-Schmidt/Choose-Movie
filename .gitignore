@@ -1,1 +1,22 @@
+# Hemmelige nøgler og lokale indstillinger
 .env
+
+# Lokal database med personlige filmdata
+film_roulette.db
+
+# Virtuelt Python-miljø
+.venv/
+venv/
+
+# Python-cache
+__pycache__/
+*.py[cod]
+
+# Test- og dækningsfiler
+.pytest_cache/
+.coverage
+
+# Editor og styresystem
+.vscode/
+.DS_Store
+Thumbs.db
